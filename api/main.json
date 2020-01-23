@@ -1,0 +1,20 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Amelie", 
+            "yearReleased": "2001"
+        }, 
+        {
+            "id":2, 
+            "title":"M", 
+            "yearReleased": "1931"
+        }, 
+        {
+            "id":3,
+            "title":"Autumn Sonata", 
+            "yearReleased": "1978"
+        }
+    ]
+}
+
